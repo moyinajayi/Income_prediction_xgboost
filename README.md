@@ -1,11 +1,11 @@
-# MachineLearning
-This folder contains details of projects related to Binary classification using datasets from kaggle.
+# Machine learning project to effectively classify income ranges in an employment data set.
 
--Project 1: Apple Quality classification
+The data set contains features like age, salary, marital status, income, capital gains, capital loss among others.
 
--Project 2: Income Predictions using xgboost
+The steps include:
 
-Steps include
-Data exploration 
-feature correlation tests
-feature scaling and model training
+-- Data Exploration and cleaning
+
+-- Model Evaluation
+
+-- Feature Importance
