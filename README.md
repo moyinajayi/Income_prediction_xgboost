@@ -1,4 +1,7 @@
-# Machine learning project to effectively classify income ranges in an employment data set.
+# Classification Machine learning project to effectively classify income ranges in the popular censues income data set
+## Goal: Predict whether income exceeds $50K/yr based on census data. 
+
+
 
 The dataset is from the ucl repo: #https://archive.ics.uci.edu/dataset/2/adult
 
