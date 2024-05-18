@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "kMeansClustering1",
+			"path": "../kMeansClustering1"
+		}
+	],
+	"settings": {}
+}
