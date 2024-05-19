@@ -1,4 +1,4 @@
-# Classification Machine learning project to effectively classify income ranges in the popular censues income data set
+# Classification project to effectively classify income ranges in the popular censues income data set
 ## Goal: Predict whether income exceeds $50K/yr based on census data. 
 
 
